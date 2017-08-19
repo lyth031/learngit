@@ -27,4 +27,4 @@ the guess is too low. Enter 'c' to indicate I guessed correctly. ")
 the guess is too low. Enter 'c' to indicate I guessed correctly. ")
 
 print("Game over. Your secret number was: %d" % ans)
-print("New York")
+print("Let's go!")
